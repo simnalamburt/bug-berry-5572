@@ -4,6 +4,6 @@
     "is-even": "^1.0.0"
   },
   "resolutions": {
-    "is-even/is-odd/is-number": "7"
+    "is-number@npm:3.0.0": "7"
   }
 }
