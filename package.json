@@ -2,5 +2,8 @@
   "packageManager": "yarn@3.6.1",
   "dependencies": {
     "is-even": "^1.0.0"
+  },
+  "resolutions": {
+    "is-even/is-odd/is-number": "7"
   }
 }
